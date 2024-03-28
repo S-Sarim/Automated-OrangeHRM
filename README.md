@@ -1,1 +1,1 @@
-# Automated-OrangeHRM
+# OrangeHRM
